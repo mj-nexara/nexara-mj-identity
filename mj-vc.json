@@ -1,0 +1,26 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://schema.org"
+  ],
+  "type": ["VerifiableCredential", "DeveloperCredential"],
+  "issuer": "https://vc.nexara.dev",
+  "id": "did:nexara:mj-001",
+  "issuanceDate": "2025-06-21T00:00:00Z",
+  "credentialSubject": {
+    "id": "did:github:mj-nexara",
+    "name": "MJ AHMAD",
+    "affiliation": "Nexara",
+    "role": "Lead Open Developer",
+    "github": "https://github.com/mj-nexara",
+    "visualStudioPublisher": "mjahmad.nexara",
+    "verifiedBy": {
+      "CompaniesHouse": "NEXA LTD • Reg: UK-10976244",
+      "MicrosoftPartnerID": "NEX-DEV-2025"
+    },
+    "signature": {
+      "algorithm": "ecdsa-secp256k1",
+      "proof": "0xa2d3...MJ-VC"
+    }
+  }
+}
