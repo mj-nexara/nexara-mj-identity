@@ -2,7 +2,7 @@
 
 This page serves as the public, verifiable identity of MJ AHMAD under the Nexara ecosystem.
 
-🔹 View Identity Card: [vc.nexara.dev/mj](https://vc.nexara.dev/mj)  
+🔹 View Identity Card: [vc.nexarabd.dev/mj](https://vc.nexarabd.dev/mj)  
 🔹 Verifiable Credential: `/mj-vc.json`  
 🔹 Badge: `/mj-verified.svg`
 
