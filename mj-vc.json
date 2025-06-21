@@ -4,7 +4,7 @@
     "https://schema.org"
   ],
   "type": ["VerifiableCredential", "DeveloperCredential"],
-  "issuer": "https://vc.nexara.dev",
+  "issuer": "https://vc.nexarabd.dev",
   "id": "did:nexara:mj-001",
   "issuanceDate": "2025-06-21T00:00:00Z",
   "credentialSubject": {
